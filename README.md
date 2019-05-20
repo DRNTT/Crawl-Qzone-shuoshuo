@@ -3,6 +3,7 @@
 爬取的说说信息有作者，内容，图片地址与时间，同时自己发表的说说与转载的说说将存于两个Document中。
 
 ![image](https://github.com/DRNTT/SpiderImage/blob/master/qzone/ss.png?raw=true)
+![image](https://github.com/DRNTT/SpiderImage/blob/master/qzone/zz.png?raw=true)
 
 # 下载图片
 
